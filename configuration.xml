@@ -1,0 +1,13 @@
+<apps>
+  
+  <app name="cc" app_url="http://localhost:8080/cc">
+    <queue id="80" name="ABC_Transport">
+      <ping> http://aravindrpillai.com, http://lens35.in </ping>
+    </queue>
+    <queue id="99" name="XYZ_Transport">
+      <ping> https://example.com </ping>
+    </queue>
+  </app>
+
+
+</apps>
